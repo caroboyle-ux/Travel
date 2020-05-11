@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi! Welcome to the blog. Keep reading if you're planning a trip to the USA and want more information about Amtrak, the California Zephyr, and the delights that San Francisco, Reno, Denver, Chicago and New York have to offer! You'll find content and photos as well as recommendations for hotels, bars, attractions, restaurants and more. If you like what you read, please share!
