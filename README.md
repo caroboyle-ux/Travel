@@ -2,7 +2,7 @@
 
 If you're planning a trip to the USA, did you consider taking travelling west to east on Amtrak's famous California Zephyr? Follow our 14-day journey from San Francisco to New York on the most picturesque rail journey in the world and take a tour of the wonderful architecture and street art in some of the most famous cities in America. 
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+![alt text](https://github.com/caroboyle-ux/Travel/blob/CB-edits/assets/img/IMG_1839.jpg "Chicago")
 
 
 ## Table of Contents
