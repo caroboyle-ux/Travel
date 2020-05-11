@@ -27,7 +27,7 @@ If you're planning a trip to the USA, did you consider taking travelling west to
 
 ## Introduction
 
-If you've never visited the US, or if you have, but haven't quite seen some of the amazing architecure, street art and history in some of the major cities, then look no further. This blog documents our recent trip across the USA, starting on the west coast of California, taking in the wonderful sights and sounds of San Francisco (my absolute favourite city in the world!) then across Nevada to the wacky wonders of Reno. Next up is Denver, the coolest city in Colorado with it's craft breweries and colourful street art. From there we head across the rockies to Chicago, home of some of the most astonishing and varied modern architecture in the world (thanks to the great fire of 1871). Onwards we go to New York, the big apple - no explanation needed. Enjoy the trip! 
+If you've never visited the US, or if you have, but haven't quite seen some of the amazing architecure, street art and history in some of the major cities, then look no further. This blog documents our recent trip across the USA, starting on the west coast of California, taking in the wonderful sights and sounds of San Francisco (my absolute favourite city in the world!) then across Nevada to the wacky wonders of Reno. Next up is Denver, the coolest city in Colorado, with its craft breweries and colourful street art. From there, we head across the Rocky mountains to Chicago, home of some of the most astonishing and varied modern architecture in the world (thanks to the great fire of 1871). Onwards, we take the Lake Shore to New York, the Big Apple - no explanation needed. Enjoy the trip! 
 
 ### Travel
 
